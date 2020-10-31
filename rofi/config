@@ -5,4 +5,4 @@ configuration
 	
 }
 
-rofi.theme: /home/nabin/.config/rofi/themes/slate.rasi
+rofi.theme: $HOME/.config/rofi/themes/slate.rasi
