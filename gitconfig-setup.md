@@ -19,3 +19,6 @@
     name = nabin.gyawali
     email = nabin.gyawali@nextly.solutions
 ```
+
+to verify
+`git config user.name`
