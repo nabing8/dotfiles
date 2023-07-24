@@ -13,6 +13,8 @@
     editor = vim
 ```
 
+`Note: Include the trailing slash (/) on the path`
+
 #### .gitconfig-[example-config]
 ```
 [user]
