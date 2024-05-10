@@ -24,3 +24,10 @@
 
 to verify
 `git config user.name`
+
+eg for windows
+
+```
+[includeIf "gitdir:C:/Users/ACER/projects/"]
+    path = .gitconfig-[example-config]
+```
