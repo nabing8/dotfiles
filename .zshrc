@@ -102,9 +102,10 @@ source $ZSH/oh-my-zsh.sh
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=#00ffff,bold'
 
 alias cat="bat"
-alias ls="exa --grid --color auto --icons --sort=type"
-alias ll="exa --grid --all --color auto --icons --sort=type"
+alias ls="eza --grid --color auto --icons --sort=type"
+alias ll="eza --grid --all --color auto --icons --sort=type"
 alias programming="cd /media/hdd/Programming/"
+
 cpuu(){
 	watch -n 0.5 "grep 'cpu MHz' /proc/cpuinfo"
 }
