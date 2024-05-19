@@ -4,8 +4,8 @@
 [credential]
     helper = store
 [user]
-    email = Nabin Gyawali
-    name = ngyawali8@gmail.com
+    name = Nabin Gyawali
+    email = ngyawali8@gmail.com
 
 [includeIf "gitdir:[path here]"]
     path = .gitconfig-[example-config]
